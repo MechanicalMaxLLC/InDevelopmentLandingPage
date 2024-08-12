@@ -15,8 +15,8 @@ Include PDF document of future site plan, logo images, and subscribe button. Als
 - ~~create static page plan in readme~~
 - ~~install node~~
 - ~~install tailwind~~
-- create html page
-- place components in html
+- ~~create html page~~
+- ~~place components in html~~
 - style with tailwind
 - ensure mobile works
 - get feedback
