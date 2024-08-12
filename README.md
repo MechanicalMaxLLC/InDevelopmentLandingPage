@@ -25,9 +25,9 @@ Include PDF document of future site plan, logo images, and subscribe button. Als
 - ~~create html page~~
 - ~~place components in html~~
 - ~~setup tailwind development~~
-- style with tailwind
-- ensure mobile works
-- get feedback
+- ~~style with tailwind~~
+- ~~ensure mobile works~~
+- ~~get feedback~~
 - host on AWS
 - Test
 - YouTube short
