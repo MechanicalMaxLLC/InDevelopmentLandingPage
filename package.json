@@ -4,7 +4,8 @@
   "description": "A simple static landing page for our website while we work out our business plan and develop our site",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./main.css -o ./src/styles/main.css --watch"
   },
   "repository": {
     "type": "git",
