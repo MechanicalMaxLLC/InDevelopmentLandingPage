@@ -13,8 +13,8 @@ Include PDF document of future site plan, logo images, and subscribe button. Als
 - ~~Create repository~~
 - ~~define goals in readme~~
 - ~~create static page plan in readme~~
-- install node
-- install tailwind
+- ~~install node~~
+- ~~install tailwind~~
 - create html page
 - place components in html
 - style with tailwind
